@@ -1,0 +1,8 @@
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\bin\Debug\tugas5.1-sitiafriani-xpplg1.exe.config
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\bin\Debug\tugas5.1-sitiafriani-xpplg1.exe
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\bin\Debug\tugas5.1-sitiafriani-xpplg1.pdb
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\obj\Debug\tugas5.1-sitiafriani-xpplg1.csproj.AssemblyReference.cache
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\obj\Debug\tugas5.1-sitiafriani-xpplg1.csproj.SuggestedBindingRedirects.cache
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\obj\Debug\tugas5.1-sitiafriani-xpplg1.csproj.CoreCompileInputs.cache
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\obj\Debug\tugas5.1-sitiafriani-xpplg1.exe
+D:\sitiafriani_xpplg1\tugas5.1-sitiafriani-xpplg1\tugas5.1-sitiafriani-xpplg1\obj\Debug\tugas5.1-sitiafriani-xpplg1.pdb
