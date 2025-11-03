@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas7.2-sitiafriani-xpplg1", "tugas7.2-sitiafriani-xpplg1\tugas7.2-sitiafriani-xpplg1.csproj", "{5B6D9FBB-619C-4F70-A540-1E439AD31B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B6D9FBB-619C-4F70-A540-1E439AD31B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6D9FBB-619C-4F70-A540-1E439AD31B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6D9FBB-619C-4F70-A540-1E439AD31B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6D9FBB-619C-4F70-A540-1E439AD31B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76144E24-15FE-48F0-B9E0-FFFA04409A73}
+	EndGlobalSection
+EndGlobal
