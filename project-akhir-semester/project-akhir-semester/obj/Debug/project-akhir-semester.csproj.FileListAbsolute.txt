@@ -1,0 +1,7 @@
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\bin\Debug\project-akhir-semester.exe.config
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\bin\Debug\project-akhir-semester.exe
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\bin\Debug\project-akhir-semester.pdb
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\obj\Debug\project-akhir-semester.csproj.AssemblyReference.cache
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\obj\Debug\project-akhir-semester.csproj.CoreCompileInputs.cache
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\obj\Debug\project-akhir-semester.exe
+D:\sitiafriani\project-akhir-semester\project-akhir-semester\obj\Debug\project-akhir-semester.pdb
