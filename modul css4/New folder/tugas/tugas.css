@@ -1,0 +1,30 @@
+body {
+background-color:azure;
+}
+
+/* Paragraf 1 */
+p:nth-of-type(2) {
+font-size: 14px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: lighter;
+font-style: normal;
+color:plum;
+}
+
+/* Paragraf 2 */
+p:nth-of-type(4) {
+font-size: small;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 300;
+font-style: italic;
+color:yellow;
+}
+
+/* Paragraf 3 */
+p:nth-of-type(6) {
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-style: oblique;
+color:maroon;
+}
